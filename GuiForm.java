@@ -17,6 +17,8 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * Created by Scott on 5/20/2015.
+ * Multi threaded printing helper
+ * Sends specific PDF documents to user specified printers based on a basic word filter
  */
 public class GuiForm {
     private JPanel panel1;
